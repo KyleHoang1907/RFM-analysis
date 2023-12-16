@@ -3,9 +3,9 @@
 # I.Introduction
   ## 1.1	Business question
   ####  Business Questions
-### The Marketing Department needs to classify the segments of each customer to deploy each marketing program suitable for each customer group.
-### The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch marketing campaigns to thank customers for supporting the company over the past time. As well as exploit potential customers to become loyal customers.
-### Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
+    - The Marketing Department needs to classify the segments of each customer to deploy each marketing program suitable for each customer group.
+    - The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch marketing campaigns to thank customers for supporting the company over the past time. As well as exploit potential customers to become loyal customers.
+    - Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
   #### The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch appropriate marketing campaigns. Analyze the current situation of the company and give suggestions to the Marketing team
   #### With the retail model of SuperStore company, which indicator should be most focused in the 3 indicators R,F,M?
   ## 1.2	Dataset
